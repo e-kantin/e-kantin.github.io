@@ -36,8 +36,8 @@ body
     font-weight: 300;
     font-style: normal;
 
-    color: #fff;
-    background: #fff;
+    color: #36187d;
+    background: #36187d;
 
     -webkit-font-smoothing: antialiased;
 }
@@ -53,7 +53,7 @@ h6
 
     letter-spacing: .02em;
 
-    color: #fff;
+    color: #36187d;
 }
 
 h1
@@ -102,7 +102,7 @@ a:focus
             transition: all 300ms ease;
     text-decoration: none;
 
-    color: #fff;
+    color: #36187d;
 }
 
 button
@@ -370,7 +370,7 @@ button
 
     vertical-align: middle;
 
-    border: 3px solid #fff;
+    border: 3px solid #36187d;
     border-radius: 100%;
 }
 
@@ -1095,8 +1095,8 @@ button
 
     text-align: center;
 
-    color: #fff;
-    border: 2px solid #fff;
+    color: #6c758f;
+    border: 2px solid #6c758f;
     border-radius: 100%;
     background: none;
 }
